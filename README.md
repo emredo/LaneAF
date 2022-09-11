@@ -4,3 +4,5 @@ The trained TUsimple weight file can be downloaded from this link: ```https://dr
 
 Run following script in main repo folder:
 ```python3 test.py --dataset-dir=/PATH/TO/VIDEO/ --snapshot=/PATH/TO/TRAINED/MOEL/WEIGHTS```
+
+If you want to see original repo, change brach from master to main.
